@@ -16,6 +16,9 @@
 
 
  💬 Ask me about **React, Firebase, Dialogflow and latest tech news** ... 
+ 
+ <img src="https://images.app.goo.gl/C8eKz5VuhaBuo5J68"/>
+</p>
 
 </div>
 <div align="center"> 
