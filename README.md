@@ -40,3 +40,7 @@
 <br/>
 <hr/>
 
+## 📊 GitHub Stats:
+[![Ashwanis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Utkarshzzz&show_icons=true&line_height=29&theme=tokyonight)](https://github.com/Utkarshzzz/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Utkarshzzz&layout=donut&count=5&theme=tokyonight)](https://github.com/Utkarshzzz/github-readme-stats)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,2,5,12,21&section=footer)
