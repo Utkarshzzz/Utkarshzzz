@@ -17,8 +17,9 @@
 
  💬 Ask me about **React, Firebase, Dialogflow and latest tech news** ... 
  
- 
-![195303](https://github.com/user-attachments/assets/2b913ae7-4ba6-4b64-8fd9-4a1d6069ee44)
+ ![a2b4ae4ebabcd10ff10a1581366f6df2](https://github.com/user-attachments/assets/9d9b743d-1cad-4485-8dfe-eb45ca8dfdd1)
+
+
 
 </div>
 <div align="center"> 
