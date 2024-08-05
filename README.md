@@ -17,8 +17,8 @@
 
  💬 Ask me about **React, Firebase, Dialogflow and latest tech news** ... 
  
- <img src="https://images.app.goo.gl/C8eKz5VuhaBuo5J68"/>
-</p>
+ 
+![195303](https://github.com/user-attachments/assets/2b913ae7-4ba6-4b64-8fd9-4a1d6069ee44)
 
 </div>
 <div align="center"> 
